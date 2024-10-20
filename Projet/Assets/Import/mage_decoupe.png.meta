@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: c9e85ec86931b3a4f92b63c33e917e58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5994716043761795212
+    second: mage_decoupe_0
+  - first:
+      213: 8773257287112019299
+    second: mage_decoupe_1
+  - first:
+      213: -3422440850836830704
+    second: mage_decoupe_2
+  - first:
+      213: -5262601800006101987
+    second: mage_decoupe_3
+  - first:
+      213: -6874512799945269489
+    second: mage_decoupe_4
+  - first:
+      213: -1595504142405226405
+    second: mage_decoupe_5
+  - first:
+      213: -6685722191012638239
+    second: mage_decoupe_6
+  - first:
+      213: 8707895466085833860
+    second: mage_decoupe_7
+  - first:
+      213: 8979763158704457254
+    second: mage_decoupe_8
+  - first:
+      213: -615499681313595904
+    second: mage_decoupe_9
+  - first:
+      213: -8066866897269889968
+    second: mage_decoupe_10
+  - first:
+      213: 5979205878071858062
+    second: mage_decoupe_11
+  - first:
+      213: 3534280782030466784
+    second: mage_decoupe_12
+  - first:
+      213: 2245640533463203804
+    second: mage_decoupe_13
+  - first:
+      213: 7213369663379760202
+    second: mage_decoupe_14
+  - first:
+      213: 8062662460231872905
+    second: mage_decoupe_15
+  - first:
+      213: -6258337550132953714
+    second: mage_decoupe_16
+  - first:
+      213: -8049891315858727418
+    second: mage_decoupe_17
+  - first:
+      213: 2232907260571792944
+    second: mage_decoupe_18
+  - first:
+      213: -5308153174748949258
+    second: mage_decoupe_19
+  - first:
+      213: 4495429227346163777
+    second: mage_decoupe_20
+  - first:
+      213: 4422483253799006239
+    second: mage_decoupe_21
+  - first:
+      213: 4450204706013181922
+    second: mage_decoupe_22
+  - first:
+      213: 487242328355686319
+    second: mage_decoupe_23
+  - first:
+      213: 8492979461876889980
+    second: mage_decoupe_24
+  - first:
+      213: -1292398821301529142
+    second: mage_decoupe_25
+  - first:
+      213: -1335981286817276658
+    second: bloc_vide
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage_decoupe_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 578
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f3e32058d7ecca0800000000000000
+      internalID: -5994716043761795212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 576
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d4b69150fd0c970800000000000000
+      internalID: 8773257287112019299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 573
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016c515dd2c0180d0800000000000000
+      internalID: -3422440850836830704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 488
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d141e4c9b8b77f6b0800000000000000
+      internalID: -5262601800006101987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 485
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd26bf703d890a0800000000000000
+      internalID: -6874512799945269489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 487
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50b5429f61abd9e0800000000000000
+      internalID: -1595504142405226405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 488
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1deb9f61b8733a0800000000000000
+      internalID: -6685722191012638239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd74d3ac8a8d870800000000000000
+      internalID: 8707895466085833860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 29
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62608b914078e9c70800000000000000
+      internalID: 8979763158704457254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 31
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00edfe70d4e4577f0800000000000000
+      internalID: -615499681313595904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 32
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054eed90c4bbc0090800000000000000
+      internalID: -8066866897269889968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 36
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83966121186af250800000000000000
+      internalID: 5979205878071858062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_12
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 36
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee6a6555a94c0130800000000000000
+      internalID: 3534280782030466784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 39
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdffa42da2e1a2f10800000000000000
+      internalID: 2245640533463203804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 42
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a446453ad790b1460800000000000000
+      internalID: 7213369663379760202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 46
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9817ffd2ac454ef60800000000000000
+      internalID: 8062662460231872905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_16
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 50
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d36dff72be529a0800000000000000
+      internalID: -6258337550132953714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 496
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e1db59f7a094090800000000000000
+      internalID: -8049891315858727418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_18
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 494
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036b5c2b251ecfe10800000000000000
+      internalID: 2232907260571792944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 496
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f41ab5bfc6a556b0800000000000000
+      internalID: -5308153174748949258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_20
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 492
+        width: 129
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14870e08019f26e30800000000000000
+      internalID: 4495429227346163777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_21
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 488
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10bdc78611df5d30800000000000000
+      internalID: 4422483253799006239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 314
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7ffa71a9d42cd30800000000000000
+      internalID: 4450204706013181922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 310
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7cc2de05803c600800000000000000
+      internalID: 487242328355686319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 314
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c793cd5a2df1dd570800000000000000
+      internalID: 8492979461876889980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_decoupe_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 311
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac550349e1a701ee0800000000000000
+      internalID: -1292398821301529142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloc_vide
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 536
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ddfa41914a57de0800000000000000
+      internalID: -1335981286817276658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
