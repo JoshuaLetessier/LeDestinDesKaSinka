@@ -1,17 +1,17 @@
 # LeDestinDesKaSinka
 
-# Langages 
+## Langages 
   C#
 
-# Outils 
+## Outils 
   Unity, Visual Studio, Git
 
-# Pre-descritpion
+## Pre-descritpion
   Platformer 2D réalisé lors de ma deuxième année de DUT Informatique.
 
-# Description
+## Description
 
-# Challenges techniques
+## Challenges techniques
 
-# Vidéo
+## Vidéo
   https://www.youtube.com/watch?v=Rskt8SZnZzc
